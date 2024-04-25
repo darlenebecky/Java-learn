@@ -6,6 +6,7 @@
 class Demo {
 	public static void main(String[] args) {
 		System.out.println("HelloWorld");
+		System.out.println("HelloWorld again");
 		System.out.println("我爱林青霞");
 		System.out.println("我爱Java");
 		System.out.println("我爱张瑜");
